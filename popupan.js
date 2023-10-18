@@ -33,9 +33,9 @@ var url_popup = 'https://bitly.li/JdSa';
                    }
                  });
       });  
-      */
+
       //]]>
-	
+	/*
 	var url_popup = 'http://giaiphapthuonghieu.vn';
 	<script src="https://jgoogle.googlecode.com/svn/trunk/popup.js"></script>
 	*/
